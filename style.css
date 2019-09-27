@@ -1,0 +1,22 @@
+#main-product{
+    height: 350px;
+}
+.md-product{
+    height: 300px;
+}
+#third-product{
+    margin-top: -50px;
+}
+.down-product{
+    height: 250px;
+}
+
+.btn-action{
+    width: 260px;
+    background-color: #FF4D56;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    text-align: center;
+}
